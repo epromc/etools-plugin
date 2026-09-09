@@ -44,6 +44,12 @@ Welcome to the official **eTools** (`v0.0.1-RELEASE`) documentation on [GitBook]
 
 ---
 
+## 📊 Live Telemetry & Statistics
+
+[![bStats Statistics](https://bstats.org/signatures/bukkit/eTools.svg)](https://bstats.org/plugin/bukkit/eTools/33947)
+
+---
+
 ## 💖 Support the Developer
 
 If **eTools** enhances your Minecraft server experience, consider supporting ongoing development:
