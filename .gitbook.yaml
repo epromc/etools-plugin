@@ -1,0 +1,4 @@
+# GitBook Configuration
+# https://docs.gitbook.com/integrations/git-sync
+
+root: ./docs

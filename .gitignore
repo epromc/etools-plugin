@@ -1,0 +1,7 @@
+# Ignore source code and build files (keep repo documentation-only)
+src/
+target/
+pom.xml
+dependency-reduced-pom.xml
+docs ai/
+docs/modrinth/
