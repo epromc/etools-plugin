@@ -6,6 +6,9 @@ description: Comprehensive documentation for eTools - Modern Custom Tools & Util
 
 Welcome to the official **eTools** (`v0.0.1-RELEASE`) documentation on [GitBook](https://epromc.gitbook.io/etools)!
 
+[![bStats Servers](https://img.shields.io/bstats/servers/33947?style=for-the-badge&logo=minecraft&logoColor=white&label=bStats%20Servers&color=00D26A)](https://bstats.org/plugin/bukkit/eTools/33947)
+[![bStats Players](https://img.shields.io/bstats/players/33947?style=for-the-badge&logo=minecraft&logoColor=white&label=bStats%20Players&color=1085FF)](https://bstats.org/plugin/bukkit/eTools/33947)
+
 {% hint style="success" %}
 **eTools** is engineered for modern Minecraft 1.21+ servers, providing high-performance 3x3/5x5 directional mining, tree felling, automated agricultural harvesting, infinite utilities, and online-time lifespans with zero main-thread lag.
 {% endhint %}
@@ -35,6 +38,7 @@ Welcome to the official **eTools** (`v0.0.1-RELEASE`) documentation on [GitBook]
 ## 🔗 Useful Links & Community
 
 * 📖 **Live Documentation:** [https://epromc.gitbook.io/etools](https://epromc.gitbook.io/etools)
+* 📊 **bStats Metrics:** [https://bstats.org/plugin/bukkit/eTools/33947](https://bstats.org/plugin/bukkit/eTools/33947)
 * 🐛 **Report Issues & Bugs:** [GitHub Pull Requests / Issues](https://github.com/epromc/etools-plugin/pulls)
 * 🎥 **YouTube Showcase:** Coming Soon
 
