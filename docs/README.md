@@ -4,7 +4,7 @@ description: Comprehensive documentation for eTools - Modern Custom Tools & Util
 
 # ⚡ Overview & Introduction
 
-Welcome to the official **eTools** (`v0.0.1-RELEASE`) documentation on GitBook!
+Welcome to the official **eTools** (`v0.0.1-RELEASE`) documentation on [GitBook](https://epromc.gitbook.io/etools)!
 
 {% hint style="success" %}
 **eTools** is engineered for modern Minecraft 1.21+ servers, providing high-performance 3x3/5x5 directional mining, tree felling, automated agricultural harvesting, infinite utilities, and online-time lifespans with zero main-thread lag.
@@ -32,6 +32,14 @@ Welcome to the official **eTools** (`v0.0.1-RELEASE`) documentation on GitBook!
 
 ---
 
+## 🔗 Useful Links & Community
+
+* 📖 **Live Documentation:** [https://epromc.gitbook.io/etools](https://epromc.gitbook.io/etools)
+* 🐛 **Report Issues & Bugs:** [GitHub Pull Requests / Issues](https://github.com/epromc/etools-plugin/pulls)
+* 🎥 **YouTube Showcase:** Coming Soon
+
+---
+
 ## 💖 Support the Developer
 
 If **eTools** enhances your Minecraft server experience, consider supporting ongoing development:
@@ -41,4 +49,3 @@ If **eTools** enhances your Minecraft server experience, consider supporting ong
 
 * 💜 **TipTap Tip:** [https://tiptap.gg/epromite/tip](https://tiptap.gg/epromite/tip)
 * ☕ **Ko-fi Tip:** [https://ko-fi.com/epromite/tip](https://ko-fi.com/epromite/tip)
-* 🎥 **YouTube Showcase:** Coming Soon
